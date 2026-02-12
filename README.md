@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- Dynamic Header -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Bayu%20Gelgel&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20IoT%20Explorer%20%7C%20Bali%20🌺&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
-
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+digital+craft+from+Bali+%F0%9F%8C%B4;Laravel+%E2%80%A2+React+%E2%80%A2+Flutter+%E2%80%A2+ESP32;Digitizing+Balinese+Gamelan+Heritage+%F0%9F%8E%B6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+digital+craft+from+Bali;Laravel+%E2%80%A2+React+%E2%80%A2+Flutter+%E2%80%A2+ESP32" alt="Typing SVG" />
   </a>
 
 </div>
@@ -20,14 +17,13 @@
 ```yaml
 name: I Putu Bayu Gelgel Wiyantara
 location: Bali, Indonesia 🇮🇩
-current_focus: Tihingan Gamelans — Digitalisasi Pengrajin Gamelan
+current_focus: Planning the future
 education: IT Student & Self-taught Developer
 
 interests:
   - Web Development (Laravel / React)
   - Mobile Apps (Flutter)
   - IoT Integration (ESP32)
-  - Balinese Culture & Heritage Tech
 ```
 
 <br clear="both">
@@ -76,33 +72,13 @@ interests:
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DuloeW&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DuloeW&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuloeW&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DuloeW&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuloeW&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DuloeW/DuloeW/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Divider -->
